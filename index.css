@@ -1,0 +1,11 @@
+.head{
+
+}
+.user{
+    border: solid black 1px;
+}
+
+input[type="text"]{
+    border: 1px solid black;
+    margin-left: 60px;
+}
