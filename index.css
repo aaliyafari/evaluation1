@@ -9,3 +9,9 @@ input[type="text"]{
     border: 1px solid black;
     margin-left: 60px;
 }
+button{
+    border: solid black 1px;
+    border-radius: 10px;
+    width: 100px;
+}
+
